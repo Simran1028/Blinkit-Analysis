@@ -4,7 +4,7 @@
 To conduct a detailed analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution using key performance indicators and data visualizations. The analysis aims to uncover actionable insights and identify optimization opportunities in product offerings and outlet strategy.
 
 ## Dataset
-<a href="">Dataset</a>
+<a href="https://github.com/Simran1028/Blinkit-Analysis/blob/main/blinkit_data.csv">Dataset</a>
 
 ## KPI Requirements
 The following key performance indicators were used for analysis:
@@ -35,31 +35,31 @@ The following key performance indicators were used for analysis:
 
 
 
--Total Sales by Item Type (Bar Chart)
+- Total Sales by Item Type (Bar Chart)
   - Snacks, Fruits & Vegetables, and Dairy items have the highest sales.
   - High correlation between frequent consumption and high sales.
  ![Screenshot 2025-04-24 033440](https://github.com/user-attachments/assets/d6e54ae5-bd8f-4a9f-a206-b4a0fadce524)
 
 
--Fat Content by Outlet Tier (Stacked Column Chart)
+- Fat Content by Outlet Tier (Stacked Column Chart)
   - Tier 1 locations show a slight preference for Low Fat options.
   - Regular fat content is preferred across all tiers.
  ![Screenshot 2025-04-24 033450](https://github.com/user-attachments/assets/d03e8c67-78fd-47be-9026-ec118fbfe713)
 
 
--Total Sales by Outlet Establishment Year (Line Chart)
+- Total Sales by Outlet Establishment Year (Line Chart)
   - Outlets established earlier (before 2000) show consistent, higher sales.
   - Newer outlets show promise but need more time or better positioning.
  ![Screenshot 2025-04-24 033502](https://github.com/user-attachments/assets/e2203f64-5602-4d0a-922e-b016642fe9bb)
 
 
--Sales by Outlet Size (Pie Chart)
+- Sales by Outlet Size (Pie Chart)
   - Medium-sized outlets generate the majority of sales.
   - High-end outlets have smaller share, likely due to exclusivity or location factors.
  ![Screenshot 2025-04-24 033510](https://github.com/user-attachments/assets/eea21147-06c1-4b22-904f-8944853f3e83)
 
  
--Sales by Outlet Location (Bar Chart)
+- Sales by Outlet Location (Bar Chart)
   - Metro and urban outlets outperform semi-urban/rural locations.
   - Opportunities exist to boost performance in under-performing regions.
  ![Screenshot 2025-04-24 033519](https://github.com/user-attachments/assets/30c401a6-4556-4995-8180-6a7c896b936f)
