@@ -65,7 +65,7 @@ The following key performance indicators were used for analysis:
  ![Screenshot 2025-04-24 033519](https://github.com/user-attachments/assets/30c401a6-4556-4995-8180-6a7c896b936f)
 
 
-- Link to view - <a href="">Jupyter Notebook-Blinkit Analysis</a>
+- Link to view - <a href="https://github.com/Simran1028/Blinkit-Analysis/blob/main/Blinkit_Analysis.ipynb">Jupyter Notebook-Blinkit Analysis</a>
 
 ## Conclusion
 - Regular fat and mid-range priced products perform best across Blinkit’s inventory.
