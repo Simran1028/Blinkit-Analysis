@@ -4,7 +4,7 @@
 To conduct a detailed analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution using key performance indicators and data visualizations. The analysis aims to uncover actionable insights and identify optimization opportunities in product offerings and outlet strategy.
 
 ## Dataset
-<a href="https://github.com/Simran1028/Blinkit-Analysis/blob/main/blinkit_data.csv">Blinkit Analysis-Dataset</a>
+Blinkit Analysis - <a href="https://github.com/Simran1028/Blinkit-Analysis/blob/main/blinkit_data.csv">Dataset</a>
 
 ## KPI Requirements
 The following key performance indicators were used for analysis:
